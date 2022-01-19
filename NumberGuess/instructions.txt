@@ -1,0 +1,1 @@
+Pick any number from 1 to 100. You only have 6 guesses.
