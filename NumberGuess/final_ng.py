@@ -1,6 +1,7 @@
 #Number guess game.
 #Author: AOHI (P.Ah Sue)
 #Email: pjae1882@gmail.com
+#Game1
 
 import random
 
